@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi There, I'm Rishikesh
 
-<!--
-**Rishik00/Rishik00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Machine Learning Engineer** with a strong passion for AI, data science, and building intelligent systems. I have hands-on experience in PyTorch, Langchain, and various data-related libraries.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Technologies
+
+- **Machine Learning Frameworks:** PyTorch, TensorFlow
+- **Data Science:** Pandas, NumPy, Scikit-Learn
+- **Deep Learning:** CNNs, RNNs, Transformers
+- **Natural Language Processing:** Langchain, Hugging Face, SpaCy
+- **Databases:** SQL, MongoDB, DuckDB, AstraDB
+---
+
+## 💼 Projects
+
+---
+
+## 📫 How to reach me
+
+- **Email:** mrishikesh104@gmail.com
+- **LinkedIn:** [linkedin.com/in/rishikesh-mallagundla](https://www.linkedin.com/in/rishikeshmlengineer)
+
+---
+
+## 📈 I'm looking for:
+
+- Machine Learning Engineering roles
+- Opportunities to work on cutting-edge ML systems
